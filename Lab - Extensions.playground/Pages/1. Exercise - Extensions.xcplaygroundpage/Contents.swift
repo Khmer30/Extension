@@ -14,6 +14,7 @@ extension Character {
 let myVowel = "vowel"
 let myConsonant = "consonant"
 myVowel.isVowel()
+myConsonant.isVowel()
 
 //:  Create a `Rectangle` struct with two variable properties, `length` and `width`, both of type `Double`. Below the definition, write an extension to `Rectangle` that includes a function, `halved()`. This function returns a new `Rectangle` instance with half the length and half the width of the original rectangle.
 struct Rectangle {
